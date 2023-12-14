@@ -6,15 +6,15 @@ My name is Christian Aviel Kent Ambarita, a 13-year-old male junior high school 
 
 <p align="left">
   <!-- GitHub -->
-  <a href="https://www.github.com/jarangbukagithub">
+  <a href="https://www.github.com/avielambarita">
     <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <!-- Instagram -->
-  <a href="https://www.instagram.com/jarangbukaig">
+  <a href="https://www.instagram.com/avielambarita">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <!-- Twitter -->
-  <a href="https://www.twitter.com/jarangbukatwitter">
+  <a href="https://www.twitter.com/avielambarita">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
