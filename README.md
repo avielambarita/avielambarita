@@ -52,4 +52,4 @@ My name is Christian Aviel Kent Ambarita, a 13-year-old male junior high school 
 
 ### 📊 Status
 
-![Aviels's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarangbukagithub&show_icons=true&theme=tokyonight)
+![Aviels's GitHub stats](https://github-readme-stats.vercel.app/api?username=avielambarita&show_icons=true&theme=github_dark)
